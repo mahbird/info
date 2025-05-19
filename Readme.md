@@ -1,5 +1,4 @@
-https://docs.google.com/forms/d/e/1FAIpQLSflRKCIPt0p9u19kEKg-qOYUgWvVazCm36vR1SEML_udYAE3g/viewform?usp=header
-
+https://docs.google.com/forms/d/e/1FAIpQLSflRKCIPt0p9u19kEKg-qOYUgWvVazCm36vR1SEML_udYAE3g/viewform
 WIP
 
 https://github.com/user-attachments/assets/9ff5c433-c8b5-48cf-8f8e-856bc32531d7
